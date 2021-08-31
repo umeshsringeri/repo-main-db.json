@@ -1,0 +1,838 @@
+{
+    "cardInfo": [
+        {
+            "providerName": "SBI",
+            "cardName": "Air India SBI Platinum Credit Card",
+            "cardCategory": "Travel",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "SBI",
+            "cardName": "Air India SBI Signature Credit Card",
+            "cardCategory": "Travel",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "American Express",
+            "cardName": "American Express Payback Credit Card",
+            "cardCategory": "Women",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "American Express",
+            "cardName": "American Express Platinum Card",
+            "cardCategory": "Platinum",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "American Express",
+            "cardName": "American Express Platinum Reserve Credit Card",
+            "cardCategory": "Platinum",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "American Express",
+            "cardName": "American Express Prepaid Card",
+            "cardCategory": "Prepaid Credit",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "Axis Bank",
+            "cardName": "Axis Bank Miles & More Credit Card",
+            "cardCategory": "Travel",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "Axis Bank",
+            "cardName": "Axis Bank MY Business Credit Card",
+            "cardCategory": "Corporate",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "Axis Bank",
+            "cardName": "Axis Bank Platinum Credit Card",
+            "cardCategory": "Platinum",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "Axis Bank",
+            "cardName": "Axis Bank Prepaid Credit Card",
+            "cardCategory": "Prepaid Credit",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "Axis Bank",
+            "cardName": "Axis Bank Pride Platinum Credit Card",
+            "cardCategory": "Platinum",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "Axis Bank",
+            "cardName": "Axis Bank Pride Signature Credit Card",
+            "cardCategory": "Signature",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "Axis Bank",
+            "cardName": "Axis Bank Signature Credit Card",
+            "cardCategory": "Signature",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "Axis Bank",
+            "cardName": "Axis Bank Titanium Smart Traveler Credit Card",
+            "cardCategory": "Titanium",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "Bank of India",
+            "cardName": "Bank of India TAJ Premium Credit Card",
+            "cardCategory": "Cobranded",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "SBI",
+            "cardName": "Bank of Maharashtra SBI Platinum Credit Card",
+            "cardCategory": "Platinum",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "BOB",
+            "cardName": "BOB Corporate Premium Credit Card",
+            "cardCategory": "Corporate",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "BOB",
+            "cardName": "BOB Platinum Assure Credit Card",
+            "cardCategory": "Platinum",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "BOB",
+            "cardName": "BOB Platinum Master Credit Card",
+            "cardCategory": "Platinum",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "BOB",
+            "cardName": "BOB Platinum Visa Credit Card",
+            "cardCategory": "Platinum",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "BOB",
+            "cardName": "BOB Signature Visa Credit Card",
+            "cardCategory": "Signature",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "BO4",
+            "cardName": "BOB Titanium Master Credit Card",
+            "cardCategory": "Titanium",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "Canara Bank",
+            "cardName": "Canara Bank Classic Visa Credit Card",
+            "cardCategory": "Classic",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "Canara Bank",
+            "cardName": "Canara Corporate Credit Card",
+            "cardCategory": "Corporate",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "Central Bank",
+            "cardName": "Central Bank of India Titanium Credit Card",
+            "cardCategory": "Titanium",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "Citi Bank",
+            "cardName": "Citibank Corporate Credit Card",
+            "cardCategory": "Corporate",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "Citi Bank",
+            "cardName": "Citibank PremierMiles Credit Card",
+            "cardCategory": "Travel",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "Citi Bank",
+            "cardName": "Citibank Rewards Credit Card",
+            "cardCategory": "Rewards",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "Citi Bank",
+            "cardName": "Citibank Rewards Credit Card",
+            "cardCategory": "Women",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "Citi Bank",
+            "cardName": "Citibank Rewards Domestic Credit Card",
+            "cardCategory": "Rewards",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "SBI",
+            "cardName": "Federal Bank SBI Platinum Credit Card",
+            "cardCategory": "Platinum",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "Citi Bank",
+            "cardName": "First Citizen Citi Titanium Credit Card",
+            "cardCategory": "Titanium",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "HDFC",
+            "cardName": "HDFC All Miles Credit Card",
+            "cardCategory": "Travel",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "HDFC",
+            "cardName": "HDFC Business Gold Credit Card",
+            "cardCategory": "Corporate",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "HDFC",
+            "cardName": "HDFC Business Platinum Credit Card",
+            "cardCategory": "Corporate",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "HDFC",
+            "cardName": "HDFC Corporate Credit Card",
+            "cardCategory": "Corporate",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "HDFC",
+            "cardName": "HDFC Corporate Platinum Credit Card",
+            "cardCategory": "Corporate",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "HDFC",
+            "cardName": "HDFC Corporate Visa Signature Credit Card",
+            "cardCategory": "Corporate",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "HDFC",
+            "cardName": "HDFC Corporate World MasterCard Credit Card",
+            "cardCategory": "Corporate",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "HDFC",
+            "cardName": "HDFC Platinum Edge Credit Card",
+            "cardCategory": "Platinum",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "HDFC",
+            "cardName": "HDFC Platinum Plus Credit Card",
+            "cardCategory": "Platinum",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "HDFC",
+            "cardName": "HDFC Platinum Times Credit Card",
+            "cardCategory": "Platinum",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "HDFC",
+            "cardName": "HDFC Titanium Edge Credit Card",
+            "cardCategory": "Titanium",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "HDFC",
+            "cardName": "HDFC Titanium Times Credit Card",
+            "cardCategory": "Titanium",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "HDFC",
+            "cardName": "HDFC Titanium Times Credit Card",
+            "cardCategory": "entertainment ",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "HDFC",
+            "cardName": "HDFC Visa Signature Credit Card",
+            "cardCategory": "Signature",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "HSBC",
+            "cardName": "HSBC Bank Platinum credit card",
+            "cardCategory": "Platinum",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "ICICI",
+            "cardName": "ICICI Bank British Airways Classic Credit Card",
+            "cardCategory": "Classic",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "ICICI",
+            "cardName": "ICICI Bank British Airways Classic Credit Card",
+            "cardCategory": "Travel",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "ICICI",
+            "cardName": "ICICI Bank Coral Contactless Credit Card",
+            "cardCategory": "Contactless",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "ICICI",
+            "cardName": "ICICI Bank Coral Credit Card",
+            "cardCategory": "Women",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "ICICI",
+            "cardName": "ICICI Bank HPCL Coral American Express Credit Card",
+            "cardCategory": "auto/fuel ",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "ICICI",
+            "cardName": "ICICI Bank HPCL Coral VISA/MasterCard Credit Card",
+            "cardCategory": "auto/fuel ",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "ICICI",
+            "cardName": "ICICI Bank HPCL Platinum Credit Card",
+            "cardCategory": "auto/fuel ",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "ICICI",
+            "cardName": "ICICI Bank Instant Platinum Credit Card",
+            "cardCategory": "Platinum",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "ICICI",
+            "cardName": "ICICI Bank Platinum Chip VISA Credit Card",
+            "cardCategory": "Platinum",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "ICICI",
+            "cardName": "ICICI Bank Platinum Credit Card",
+            "cardCategory": "Platinum",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "ICICI",
+            "cardName": "ICICI Bank Platinum Identity Credit Card",
+            "cardCategory": "Platinum",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "ICICI",
+            "cardName": "ICICI Bank Titanium Credit Card",
+            "cardCategory": "Titanium",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "ICICI",
+            "cardName": "ICICI Bank Unifare Bangalore Metro Credit Card",
+            "cardCategory": "auto/fuel ",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "ICICI",
+            "cardName": "ICICI Bank Unifare Delhi Metro Credit Card",
+            "cardCategory": "auto/fuel ",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "ICICI",
+            "cardName": "ICICI Bank Unifare Mumbai Metro Credit Card",
+            "cardCategory": "auto/fuel ",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "ICICI",
+            "cardName": "ICICI Bank Visa Signature Credit Card",
+            "cardCategory": "Signature",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "IDBI",
+            "cardName": "IDBI Aspire Platinum Credit Card",
+            "cardCategory": "Platinum",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "IDBI",
+            "cardName": "IDBI Imperium Platinum Credit Card",
+            "cardCategory": "Platinum",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "IDBI",
+            "cardName": "IDBI Royale Signature Credit Card",
+            "cardCategory": "Signature",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "Indian Bank",
+            "cardName": "Indian Bank Global Classic Credit Card",
+            "cardCategory": "Classic",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "Indian Bank",
+            "cardName": "Indian Bank VISA Business Credit Card",
+            "cardCategory": "Corporate",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "Citi Bank",
+            "cardName": "IndianOil Citibank Platinum Credit Card",
+            "cardCategory": "auto/fuel ",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "Citi Bank",
+            "cardName": "IndianOil Citibank Titanium Credit Card",
+            "cardCategory": "auto/fuel ",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "IndusInd Bank",
+            "cardName": "IndusInd Bank Business Gold Credit Card",
+            "cardCategory": "Corporate",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "IndusInd Bank",
+            "cardName": "IndusInd Bank Classic Credit Card",
+            "cardCategory": "Classic",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "IndusInd Bank",
+            "cardName": "IndusInd Bank Iconia Credit Card",
+            "cardCategory": "Signature",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "IndusInd Bank",
+            "cardName": "IndusInd Bank Indulge Credit Card",
+            "cardCategory": "Signature",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "IndusInd Bank",
+            "cardName": "IndusInd Bank Pinnacle Credit Card",
+            "cardCategory": "Signature",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "IndusInd Bank",
+            "cardName": "IndusInd Bank Platinum Aura Credit Card",
+            "cardCategory": "Platinum",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "IndusInd Bank",
+            "cardName": "IndusInd Bank Platinum Credit Card",
+            "cardCategory": "Platinum",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "IndusInd Bank",
+            "cardName": "IndusInd Bank Platinum Select Credit Card",
+            "cardCategory": "Platinum",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "IndusInd Bank",
+            "cardName": "IndusInd Bank Signature Credit Card",
+            "cardCategory": "Signature",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "IndusInd Bank",
+            "cardName": "IndusInd Bank WorldMiles Credit Card",
+            "cardCategory": "Travel",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "IOB",
+            "cardName": "IOB Classic Credit Card",
+            "cardCategory": "Classic",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "SBI",
+            "cardName": "IRCTC SBI Platinum Credit Card",
+            "cardCategory": "Cobranded",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "American Express",
+            "cardName": "JetPrivilege American Express Platinum Credit Card",
+            "cardCategory": "Travel",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "HDFC",
+            "cardName": "JetPrivilege HDFC Bank Diners Club Credit Card",
+            "cardCategory": "Travel",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "HDFC",
+            "cardName": "JetPrivilege HDFC Bank Platinum Credit Card",
+            "cardCategory": "Travel",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "HDFC",
+            "cardName": "JetPrivilege HDFC Bank Titanium Credit Card",
+            "cardCategory": "Travel",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "HDFC",
+            "cardName": "JetPrivilege HDFC Bank World Credit Card",
+            "cardCategory": "Travel",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "ICICI",
+            "cardName": "JetPrivilege ICICI Bank Coral VISA Credit Card",
+            "cardCategory": "Travel",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "ICICI",
+            "cardName": "JetPrivilege ICICI Bank Rubyx VISA Credit Card",
+            "cardCategory": "Travel",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "ICICI",
+            "cardName": "JetPrivilege ICICI Bank Sapphiro VISA Credit Card",
+            "cardCategory": "Travel",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "IndusInd Bank",
+            "cardName": "JetPrivilege IndusInd Bank Odyssey Credit Card",
+            "cardCategory": "Travel",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "IndusInd Bank",
+            "cardName": "JetPrivilege IndusInd Bank Voyage Amex Credit Card",
+            "cardCategory": "Travel",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "IndusInd Bank",
+            "cardName": "JetPrivilege IndusInd Bank Voyage Visa Credit Card",
+            "cardCategory": "Travel",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "SBI",
+            "cardName": "Karur Vysya Bank SBI Platinum Credit Card",
+            "cardCategory": "Platinum",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "Kotak",
+            "cardName": "Kotak Corporate Gold Credit Card",
+            "cardCategory": "Corporate",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "Kotak",
+            "cardName": "Kotak Corporate Platinum Card",
+            "cardCategory": "Platinum",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "Kotak",
+            "cardName": "Kotak Corporate Platinum Credit Card",
+            "cardCategory": "Corporate",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "Kotak",
+            "cardName": "Kotak Corporate Wealth Signature Credit Card",
+            "cardCategory": "Corporate",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "Kotak",
+            "cardName": "Kotak Delight Platinum Card",
+            "cardCategory": "Platinum",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "Kotak",
+            "cardName": "Kotak Essentia Platinum Credit Card",
+            "cardCategory": "Platinum",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "Kotak",
+            "cardName": "Kotak League Platinum Card",
+            "cardCategory": "Platinum",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "Kotak",
+            "cardName": "Kotak Mahindra Bank Silk Inspire Credit Card",
+            "cardCategory": "Women",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "Kotak",
+            "cardName": "Kotak NRI Royale Signature Card",
+            "cardCategory": "Signature",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "Kotak",
+            "cardName": "Kotak Privy League Signature Card",
+            "cardCategory": "Signature",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "Kotak",
+            "cardName": "Kotak PVR Gold Credit Card",
+            "cardCategory": "entertainment ",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "Kotak",
+            "cardName": "Kotak PVR Platinum Credit Card",
+            "cardCategory": "entertainment ",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "Kotak",
+            "cardName": "Kotak Royale Signature Card",
+            "cardCategory": "Signature",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "LIC",
+            "cardName": "LIC Titanium Credit Card",
+            "cardCategory": "Titanium",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "SBI",
+            "cardName": "Oriental Bank of Commerce SBI Platinum Credit Card",
+            "cardCategory": "Platinum",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "PNB",
+            "cardName": "PNB Global Classic Credit Card",
+            "cardCategory": "Classic",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "RBL",
+            "cardName": "RBL Bank Classic Shopper Card",
+            "cardCategory": "Classic",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "RBL",
+            "cardName": "RBL Platinum Delight Card",
+            "cardCategory": "Platinum",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "RBL",
+            "cardName": "RBL Platinum Maxima Card",
+            "cardCategory": "Platinum",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "RBL",
+            "cardName": "RBL Titanium Delight Card",
+            "cardCategory": "Titanium",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "SBI ",
+            "cardName": "SBI Advantage Platinum Credit Card",
+            "cardCategory": "Platinum",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "SBI",
+            "cardName": "SBI Advantage Signature Credit Card",
+            "cardCategory": "Signature",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "SBI ",
+            "cardName": "SBI BMB Platinum Credit Card",
+            "cardCategory": "Platinum",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "SBI",
+            "cardName": "SBI Corporate Utility Credit Card",
+            "cardCategory": "Corporate",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "SBI",
+            "cardName": "SBI Platinum Card",
+            "cardCategory": "Platinum",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "SBI",
+            "cardName": "SBI Platinum Corporate Credit Card",
+            "cardCategory": "Corporate",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "SBI",
+            "cardName": "SBI Signature Contactless Credit Card",
+            "cardCategory": "Contactless",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "SBI",
+            "cardName": "SBI Signature Corporate Credit Card",
+            "cardCategory": "Corporate",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "Standard Chartered",
+            "cardName": "Standard Chartered Emirates Platinum Credit Card",
+            "cardCategory": "Travel",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "Standard Chartered",
+            "cardName": "Standard Chartered Landmark Rewards Platinum Credit Card",
+            "cardCategory": "Platinum",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "Standard Chartered",
+            "cardName": "Standard Chartered Manhattan Platinum Credit Card",
+            "cardCategory": "Platinum",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "Standard Chartered",
+            "cardName": "Standard Chartered Platinum Elite Credit Card",
+            "cardCategory": "Platinum",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "Standard Chartered",
+            "cardName": "Standard Chartered Platinum Rewards Credit Card",
+            "cardCategory": "Platinum",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "Standard Chartered",
+            "cardName": "Standard Chartered Platinum Rewards Credit Card",
+            "cardCategory": "Rewards",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "Standard Chartered",
+            "cardName": "Standard Chartered Super Value Titanium Credit Card",
+            "cardCategory": "Titanium",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "Syndicate Bank",
+            "cardName": "Syndicate Bank Global Classic Credit Card",
+            "cardCategory": "Classic",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "Tata",
+            "cardName": "Tata Croma Platinum Card",
+            "cardCategory": "Platinum",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "Tata",
+            "cardName": "Tata Croma Titanium Card",
+            "cardCategory": "Titanium",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "Tata",
+            "cardName": "Tata Platinum Card",
+            "cardCategory": "Platinum",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "Tata",
+            "cardName": "Tata Titanium Card",
+            "cardCategory": "Titanium",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "Union Bank",
+            "cardName": "Union Bank VISA International Classic Credit Card",
+            "cardCategory": "Classic",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "Vijaya bank",
+            "cardName": "Vijaya bank Visa Classic Chip Credit Card",
+            "cardCategory": "Classic",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "SBI",
+            "cardName": "Yatra SBI Credit Card",
+            "cardCategory": "Cobranded",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "HDFC",
+            "cardName": "HDFC Bank Solitaire - Premium Women''s Credit Card",
+            "cardCategory": "Women",
+            "cardType": "Credit"
+        },
+        {
+            "providerName": "HDFC",
+            "cardName": "HDFC Teacher''s Platinum Credit Card",
+            "cardCategory": "Platinum",
+            "cardType": "Credit"
+        }
+    ]
+}
